@@ -1,3 +1,7 @@
+# Currently learning Fullstack Software Engineer from Lambda School (Web PT 6)
+
+Doing these additional exercises to further build my understanding and skillset of EMCASCRIPT 6 and beyond! 
+
 # Course Material and FAQ for my Complete JavaScript Course
 
 This repo contains starter files and the finished project files for all the projects contained in the course.
