@@ -31,7 +31,7 @@ console.log(lastName);
 Mark and John are comparing their BMI using
 BMI = mass / (height * height)
 */
-
+/*
 var johnHeight = 1.828;
 var johnMass = 90.7;
 var markHeight = 1.799;
@@ -43,3 +43,4 @@ var markBMI = markMass / (markHeight * markHeight);
 var markBmiHigher = johnBMI < markBMI;
 var result = `Is Mark's BMI higher than John's? ${markBmiHigher}`;
 console.log(result);
+*/
